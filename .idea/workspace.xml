@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29e926f5-492b-456d-8162-0bb031f7b9ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables_08/CharToString_06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataTypesAndVariables_08/ConcatNames_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataTypesAndVariables_08/ConcatNames_05.java" afterDir="false" />
-    </list>
+    <list default="true" id="29e926f5-492b-456d-8162-0bb031f7b9ef" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +35,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TownInfo_04">
     <configuration name="MetersToKilometers_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataTypesAndVariables_08.MetersToKilometers_01" />
       <module name="JavaSeptember2022" />
@@ -52,8 +49,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TownInfo_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariables_08.TownInfo_04" />
+      <module name="JavaSeptember2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataTypesAndVariables_08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TownInfo_04" />
         <item itemvalue="Application.MetersToKilometers_01" />
       </list>
     </recent_temporary>
