@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29e926f5-492b-456d-8162-0bb031f7b9ef" name="Changes" comment="" />
+    <list default="true" id="29e926f5-492b-456d-8162-0bb031f7b9ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DatTypesAndVariablesExercise/PrintPartOfASCIITable_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +38,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SumOfChars_04">
+  <component name="RunManager" selected="Application.PrintPartOfASCIITable_05">
     <configuration name="Elevator_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DatTypesAndVariablesExercise.Elevator_03" />
       <module name="JavaSeptember2022" />
@@ -62,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpecialNumber_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariables_08.SpecialNumber_10" />
+    <configuration name="PrintPartOfASCIITable_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DatTypesAndVariablesExercise.PrintPartOfASCIITable_05" />
       <module name="JavaSeptember2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataTypesAndVariables_08.*" />
+          <option name="PATTERN" value="DatTypesAndVariablesExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintPartOfASCIITable_05" />
         <item itemvalue="Application.SumOfChars_04" />
         <item itemvalue="Application.Elevator_03" />
         <item itemvalue="Application.SumDigits_02" />
         <item itemvalue="Application.InegersOperations_01" />
-        <item itemvalue="Application.SpecialNumber_10" />
       </list>
     </recent_temporary>
   </component>
