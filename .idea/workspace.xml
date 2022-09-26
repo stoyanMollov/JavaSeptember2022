@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29e926f5-492b-456d-8162-0bb031f7b9ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DatTypesAndVariablesExercise/Elevator_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DatTypesAndVariablesExercise/InegersOperations_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DatTypesAndVariablesExercise/SumDigits_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DatTypesAndVariablesExercise/SumOfChars_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables_08/CenturiesToMinutes_09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables_08/LowerOrUpper_08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables_08/RefactorSpecialNumber_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables_08/RevrsString_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables_08/SpecialNumber_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="29e926f5-492b-456d-8162-0bb031f7b9ef" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
