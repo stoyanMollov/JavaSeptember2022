@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29e926f5-492b-456d-8162-0bb031f7b9ef" name="Changes" comment="" />
+    <list default="true" id="29e926f5-492b-456d-8162-0bb031f7b9ef" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DatTypesAndVariablesExercise/TriplesLatenLetters_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DatTypesAndVariablesExercise/TriplesLatenLetters_06.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,22 +38,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrintPartOfASCIITable_05">
+  <component name="RunManager" selected="Application.TriplesLatenLetters_06">
     <configuration name="Elevator_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DatTypesAndVariablesExercise.Elevator_03" />
-      <module name="JavaSeptember2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DatTypesAndVariablesExercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InegersOperations_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DatTypesAndVariablesExercise.InegersOperations_01" />
       <module name="JavaSeptember2022" />
       <extension name="coverage">
         <pattern>
@@ -101,13 +91,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TriplesLatenLetters_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DatTypesAndVariablesExercise.TriplesLatenLetters_06" />
+      <module name="JavaSeptember2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DatTypesAndVariablesExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TriplesLatenLetters_06" />
         <item itemvalue="Application.PrintPartOfASCIITable_05" />
         <item itemvalue="Application.SumOfChars_04" />
         <item itemvalue="Application.Elevator_03" />
         <item itemvalue="Application.SumDigits_02" />
-        <item itemvalue="Application.InegersOperations_01" />
       </list>
     </recent_temporary>
   </component>
