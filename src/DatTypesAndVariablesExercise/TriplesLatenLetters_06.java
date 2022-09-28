@@ -8,18 +8,13 @@ public class TriplesLatenLetters_06 {
 
         int n = Integer.parseInt(scan.nextLine());
 
-        for (char i = 'a'; i < n; i++) {
-                char firstLetter = (char) (i + 97);
-            for (char j = 'a'; j < n; j++) {
-                char secondLetter = (char) (j + 97);
-                for (char k = 'a'; k < n; k++) {
-                    char thirdLetter = (char) ( k + 97);
-                    System.out.print(  "%c%c%c%n",i, j, k);
+        for (char i = 'a'; i < 'a' + n; i++) {
+            for (char k = 'a'; k < 'a' + n; k++) {
+
+                for (char l = 'a'; l < 'a' + n; l++) {
+                    System.out.println(""+i+k+l);
                 }
-
             }
-
         }
-
     }
 }
