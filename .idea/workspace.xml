@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29e926f5-492b-456d-8162-0bb031f7b9ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DatTypesAndVariablesExercise/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DatTypesAndVariablesExercise/BeerKegs_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DatTypesAndVariablesExercise/whaterFlow_07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DatTypesAndVariablesExercise/TriplesLatenLetters_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DatTypesAndVariablesExercise/TriplesLatenLetters_06.java" afterDir="false" />
     </list>
@@ -39,9 +40,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TriplesLatenLetters_06">
-    <configuration name="Elevator_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DatTypesAndVariablesExercise.Elevator_03" />
+  <component name="RunManager" selected="Application.BeerKegs_08">
+    <configuration name="BeerKegs_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DatTypesAndVariablesExercise.BeerKegs_08" />
       <module name="JavaSeptember2022" />
       <extension name="coverage">
         <pattern>
@@ -55,19 +56,6 @@
     </configuration>
     <configuration name="PrintPartOfASCIITable_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DatTypesAndVariablesExercise.PrintPartOfASCIITable_05" />
-      <module name="JavaSeptember2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DatTypesAndVariablesExercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOfChars_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DatTypesAndVariablesExercise.SumOfChars_04" />
       <module name="JavaSeptember2022" />
       <extension name="coverage">
         <pattern>
@@ -105,13 +93,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="whaterFlow_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DatTypesAndVariablesExercise.whaterFlow_07" />
+      <module name="JavaSeptember2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DatTypesAndVariablesExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BeerKegs_08" />
+        <item itemvalue="Application.whaterFlow_07" />
         <item itemvalue="Application.TriplesLatenLetters_06" />
         <item itemvalue="Application.demo" />
         <item itemvalue="Application.PrintPartOfASCIITable_05" />
-        <item itemvalue="Application.SumOfChars_04" />
-        <item itemvalue="Application.Elevator_03" />
       </list>
     </recent_temporary>
   </component>
@@ -136,5 +137,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DatTypesAndVariablesExercise/BeerKegs_08.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
