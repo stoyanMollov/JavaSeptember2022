@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29e926f5-492b-456d-8162-0bb031f7b9ef" name="Changes" comment="" />
+    <list default="true" id="29e926f5-492b-456d-8162-0bb031f7b9ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MoreExerciseArrays/EncryptSortAndPrintArray_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,13 +38,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TreasureHunt_10">
-    <configuration name="MagicSum_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayExersize.MagicSum_08" />
+  <component name="RunManager" selected="Application.EncryptSortAndPrintArray_01">
+    <configuration name="EncryptSortAndPrintArray_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MoreExerciseArrays.EncryptSortAndPrintArray_01" />
       <module name="JavaSeptember2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArrayExersize.*" />
+          <option name="PATTERN" value="MoreExerciseArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EncryptSortAndPrintArray_01" />
         <item itemvalue="Application.TreasureHunt_10" />
         <item itemvalue="Application.MaxSequenceOfEqualElements_07" />
         <item itemvalue="Application.ToIntegers_05" />
         <item itemvalue="Application.Train_01" />
-        <item itemvalue="Application.MagicSum_08" />
       </list>
     </recent_temporary>
   </component>
@@ -132,6 +135,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MoreExerciseArrays/EncryptSortAndPrintArray_01.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/workspace_xml$TreasureHunt_10.ic" NAME="TreasureHunt_10 Coverage Results" MODIFIED="1665124576494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
