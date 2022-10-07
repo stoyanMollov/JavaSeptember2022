@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29e926f5-492b-456d-8162-0bb031f7b9ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayExersize/TreasureHunt_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayExersize/MaxSequenceOfEqualElements_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayExersize/MaxSequenceOfEqualElements_07.java" afterDir="false" />
-    </list>
+    <list default="true" id="29e926f5-492b-456d-8162-0bb031f7b9ef" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,5 +132,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/workspace_xml$TreasureHunt_10.ic" NAME="TreasureHunt_10 Coverage Results" MODIFIED="1665124576494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ArrayExersize.*</FILTER>
+    </SUITE>
   </component>
 </project>
