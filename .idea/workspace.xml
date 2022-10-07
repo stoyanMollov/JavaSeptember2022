@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29e926f5-492b-456d-8162-0bb031f7b9ef" name="Changes" comment="" />
+    <list default="true" id="29e926f5-492b-456d-8162-0bb031f7b9ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ArrayExersize/TreasureHunt_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayExersize/MaxSequenceOfEqualElements_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayExersize/MaxSequenceOfEqualElements_07.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MaxSequenceOfEqualElements_07">
+  <component name="RunManager" selected="Application.TreasureHunt_10">
     <configuration name="MagicSum_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayExersize.MagicSum_08" />
       <module name="JavaSeptember2022" />
@@ -88,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZigZag_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayExersize.ZigZag_03" />
+    <configuration name="TreasureHunt_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayExersize.TreasureHunt_10" />
       <module name="JavaSeptember2022" />
       <extension name="coverage">
         <pattern>
@@ -103,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TreasureHunt_10" />
         <item itemvalue="Application.MaxSequenceOfEqualElements_07" />
         <item itemvalue="Application.ToIntegers_05" />
         <item itemvalue="Application.Train_01" />
         <item itemvalue="Application.MagicSum_08" />
-        <item itemvalue="Application.ZigZag_03" />
       </list>
     </recent_temporary>
   </component>

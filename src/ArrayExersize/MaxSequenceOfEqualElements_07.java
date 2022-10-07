@@ -11,7 +11,7 @@ public class MaxSequenceOfEqualElements_07 {
                         .split(" "))
                         .mapToInt(e -> Integer.parseInt(e))
                         .toArray();
-        
+
         int maxLength = 0;
         int length = 1;
 
