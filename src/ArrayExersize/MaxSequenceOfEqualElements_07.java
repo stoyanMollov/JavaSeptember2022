@@ -7,7 +7,11 @@ public class MaxSequenceOfEqualElements_07 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        int [] array = Arrays.stream(scan.nextLine().split(" ")).mapToInt(e -> Integer.parseInt(e)).toArray();
+        int [] array = Arrays.stream(scan.nextLine()
+                        .split(" "))
+                        .mapToInt(e -> Integer.parseInt(e))
+                        .toArray();
+        
         int maxLength = 0;
         int length = 1;
 
