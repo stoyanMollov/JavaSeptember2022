@@ -72,11 +72,8 @@ public class TreasureHunt_10 {
                     break;
 
             }
-
-
             command = scanner.nextLine();
         }
-
         String treasureCount = String.join("", treasureChest);
         int charCounter = 0;
         for (int i = 0; i < treasureCount.length(); i++) {
