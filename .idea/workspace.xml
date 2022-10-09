@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29e926f5-492b-456d-8162-0bb031f7b9ef" name="Changes" comment="" />
+    <list default="true" id="29e926f5-492b-456d-8162-0bb031f7b9ef" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/ArrayExersize/TreasureHunt_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayExersize/TreasureHunt_10.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
