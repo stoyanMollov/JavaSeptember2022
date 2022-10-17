@@ -10,9 +10,9 @@ public class ListOperations_04 {
         Scanner scanner = new Scanner(System.in);
 
         List<Integer> numbers = Arrays.stream(scanner.nextLine()
-                        .split(" "))
-                .map(Integer::parseInt)
-                .collect(Collectors.toList()); // Преобразуване в списък.
+                      .split("\\s+"))
+                      .map(Integer::parseInt)
+                     .collect(Collectors.toList()); // Преобразуване в списък.
         String command = scanner.nextLine();
         while (!command.equals("End")) {
             // Валидни команди
@@ -20,14 +20,14 @@ public class ListOperations_04 {
 
             if (command.contains("Add")) {
                 // Add {number} - add number at the end
-                int numberToAdd = Integer.parseInt(command.split(" ")[1]);
+                int numberToAdd = Integer.parseInt(command.split("\\s+")[1]);
                 numbers.add(numberToAdd);
             } else if (command.contains("Insert")) {
                 // Insert {number} {index} - insert number at given index
                 // "Insert 10 2"
-                int numberToInsert = Integer.parseInt(command.split(" ")[1]);
+                int numberToInsert = Integer.parseInt(command.split("\\s+")[1]);
                 //трябва да проверя дали този индекс съществува
-                int index = Integer.parseInt(command.split(" ")[2]);
+                int index = Integer.parseInt(command.split("\\s+")[2]);
                 if (isValidIndex(index,numbers)){
                     // валиден индекс
                     numbers.add(index, numberToInsert);
@@ -38,7 +38,7 @@ public class ListOperations_04 {
             } else if (command.contains("Remove")) {
                 // Remove {index} - remove that index
                 //"Remove 2"
-                int indexForRemove = Integer.parseInt(command.split(" ")[1]);
+                int indexForRemove = Integer.parseInt(command.split("\\s+")[1]);
                 //трябва да проверя дали този индекс съществува
                 if (isValidIndex(indexForRemove,numbers)){
                     // валиден индекс
@@ -51,26 +51,27 @@ public class ListOperations_04 {
             } else if (command.contains("Shift left")) {
                 // Shift left {count} - first number becomes last 'count' times
                 // "Shift left 2"
-                int countShiftLeft = Integer.parseInt(command.split(" ")[2]);
+                int countShiftLeft = Integer.parseInt(command.split("\\s+")[2]);
                 // повтаряме нещо CountShiftLeft  пъти
                 for (int time = 1; time <= countShiftLeft; time++) {
                     int firstNumber = numbers.get(0);
                     numbers.remove(0);
+                    numbers.add(firstNumber);
                 }
             } else if (command.contains("Shift right")) {
                 // Shift right {count} - last number becomes first 'count' times
-                int countShiftRighr = Integer.parseInt(command.split(" ")[2]);
+                int countShiftRighr = Integer.parseInt(command.split("\\s+")[2]);
 
                 for (int time = 1; time <= countShiftRighr; time++) {
                     int lastNumber = numbers.get(numbers.size() - 1);
-                    numbers.remove(lastNumber);
+                    numbers.remove(numbers.size() - 1);
                     numbers.add(0, lastNumber);
                 }
-                command = scanner.nextLine();
+            }
+            command = scanner.nextLine();
             }
             for (int number:numbers) {
-                System.out.print(number + " ");
-            }
+            System.out.print(number + " ");
         }
     }
 
