@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29e926f5-492b-456d-8162-0bb031f7b9ef" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExerciseLists/ListOperations_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciseLists/ListOperations_04.java" afterDir="false" />
+>>>>>>> 38e3d346a04c1f0faac64154d90c438b57554d40
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +42,26 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LongestSequence_04">
-    <configuration name="EncryptSortAndPrintArray_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MoreExerciseArrays.EncryptSortAndPrintArray_01" />
+  <component name="RunManager" selected="Application.ListOperations_04">
+    <configuration name="ChangeList_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciseLists.ChangeList_02" />
       <module name="JavaSeptember2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MoreExerciseArrays.*" />
+          <option name="PATTERN" value="ExerciseLists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListOperations_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciseLists.ListOperations_04" />
+      <module name="JavaSeptember2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExerciseLists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,19 +71,6 @@
     </configuration>
     <configuration name="LongestSequence_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MoreExerciseArrays.LongestSequence_04" />
-      <module name="JavaSeptember2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MoreExerciseArrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PascalTriangle_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MoreExerciseArrays.PascalTriangle_02" />
       <module name="JavaSeptember2022" />
       <extension name="coverage">
         <pattern>
@@ -90,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreasureHunt_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayExersize.TreasureHunt_10" />
+    <configuration name="SingOfIntegerNumber_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabMethods.SingOfIntegerNumber_01" />
       <module name="JavaSeptember2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArrayExersize.*" />
+          <option name="PATTERN" value="LabMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListOperations_04" />
+        <item itemvalue="Application.ChangeList_02" />
+        <item itemvalue="Application.SingOfIntegerNumber_01" />
         <item itemvalue="Application.LongestSequence_04" />
         <item itemvalue="Application.RecursiveFibonacci_03" />
-        <item itemvalue="Application.PascalTriangle_02" />
-        <item itemvalue="Application.EncryptSortAndPrintArray_01" />
-        <item itemvalue="Application.TreasureHunt_10" />
       </list>
     </recent_temporary>
   </component>
@@ -142,6 +147,11 @@
           <url>file://$PROJECT_DIR$/src/MoreExerciseArrays/LongestSequence_04.java</url>
           <line>9</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExerciseLists/ListOperations_04.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
